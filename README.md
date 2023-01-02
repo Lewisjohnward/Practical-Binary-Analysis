@@ -16,6 +16,33 @@ Disassembling a binary
 Loading and executing a binary
 
 Preprocess source code
+
 `gcc -E -P file`
+
+Output assembly code from source
+
+`gcc -S file`
+
+Output object file
+
+`gcc -o file`
+
+Disassemble with att syntax
+
+`objdump -M att -d file`
+
+Display file info
+
+`file filename`
+
+Display relocation symbols from ELF
+
+`readelf --relocs`
+
+Strip ELF of symbols
+
+`strip --strip-all file`
+
+
 
 
