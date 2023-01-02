@@ -7,7 +7,7 @@ Working through the book Practical [Binary Analysis](https://www.amazon.co.uk/Pr
 
 ### Chapter 1 : Anatomy of a Binary
 
-
+<img src="https://github.com/Lewisjohnward/Practical-Binary-Analysis/blob/main/assets/Compilation%20process.png" />
 
 Compilation of a binary from source code. 
 
