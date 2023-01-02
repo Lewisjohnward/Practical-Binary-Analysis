@@ -1,7 +1,7 @@
 # Practical Binary Analysis
 
 Working through the book Practical [Binary Analysis](https://www.amazon.co.uk/Practical-Binary-Analysis-Dennis-Andriesse/dp/1593279124) by Dennis Andriesse
-The books website is [Here](https://practicalbinaryanalysis.com/)
+The books website is [Here](https://practicalbinaryanalysis.com/) where you can find example code and the VM
 
 ## Table of contents
 * [Chapter 1 : Anatomy of a Binary](#Chapter-1-:-Anatomy-of-a-Binary)
