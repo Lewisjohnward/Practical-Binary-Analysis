@@ -1,13 +1,12 @@
 # Practical Binary Analysis
 
 Working through the book Practical [Binary Analysis](https://www.amazon.co.uk/Practical-Binary-Analysis-Dennis-Andriesse/dp/1593279124) by Dennis Andriesse
+The books website is [Here](https://practicalbinaryanalysis.com/)
 
 ## Table of contents
 * [Chapter 1 : Anatomy of a Binary](#Chapter-1-:-Anatomy-of-a-Binary)
 
 ### Chapter 1 : Anatomy of a Binary
-
-<img src="https://github.com/Lewisjohnward/Practical-Binary-Analysis/blob/main/assets/Compilation%20process.png" />
 
 Compilation of a binary from source code. 
 
@@ -27,9 +26,8 @@ Output assembly code from source
 
 Output object file
 
-`gcc -c file`
+`gcc -o file`
 
-Examining a complete binary executable using
 Disassemble with att syntax
 
 `objdump -M att -d file`
