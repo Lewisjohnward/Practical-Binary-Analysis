@@ -7,6 +7,8 @@ Working through the book Practical [Binary Analysis](https://www.amazon.co.uk/Pr
 
 ### Chapter 1 : Anatomy of a Binary
 
+
+
 Compilation of a binary from source code. 
 
 Symbols and stripped binaries
@@ -25,8 +27,9 @@ Output assembly code from source
 
 Output object file
 
-`gcc -o file`
+`gcc -c file`
 
+Examining a complete binary executable using
 Disassemble with att syntax
 
 `objdump -M att -d file`
