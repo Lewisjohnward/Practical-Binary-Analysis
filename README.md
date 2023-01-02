@@ -15,4 +15,7 @@ Disassembling a binary
 
 Loading and executing a binary
 
+Preprocess source code
+`gcc -E -P file`
+
 
